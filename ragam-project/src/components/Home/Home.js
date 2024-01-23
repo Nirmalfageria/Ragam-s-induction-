@@ -1,6 +1,6 @@
 import React from "react";
 import "./home.css";
-import { motion, useScroll } from "framer-motion";
+import { motion } from "framer-motion";
 export default function Home() {
   return (
     <div>

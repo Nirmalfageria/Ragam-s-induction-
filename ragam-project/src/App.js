@@ -13,10 +13,10 @@ function App() {
     <Navbar/>
   <Router>
 <Switch>
-    <Route exact path="/"> 
+    <Route  exact path="/"> 
     <Home/>
     </Route>
-    <Route exact path="/contactus">
+    <Route  exact path="/contactus">
     <Contact/> 
     </Route>
     </Switch>
