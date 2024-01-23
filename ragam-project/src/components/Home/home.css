@@ -33,7 +33,7 @@ text-align: left;
 text-wrap: wrap;
 color: rgba(0, 0, 0, 1);
 @media(max-width:550px){
-    font-size: 4.4vw;
+    font-size: 5.4vw;
 }
 }
 .text{
@@ -45,7 +45,7 @@ letter-spacing: 0em;
 text-align: left;
 color: rgba(0, 0, 0, 1);
 @media(max-width:550px){
-    font-size: 2.2vw;
+    font-size: 3.2vw;
 }
 }
 .button{
@@ -113,7 +113,7 @@ line-height: 3vw;
 letter-spacing: 0em;
 text-align: left;
 @media(max-width:550px){
-    font-size: 4vw;
+    font-size: 4.5vw;
 }
 
 }
@@ -174,7 +174,7 @@ line-height: 2vw;
 letter-spacing: 0em;
 text-align: left;
 @media(max-width:550px){
-    font-size: 4.2vw;
+    font-size: 4.8vw;
 }
 }
 
@@ -186,7 +186,7 @@ line-height: 1.8vw;
 letter-spacing: 0em;
 text-align: left;
 @media(max-width:550px){
-    font-size: 2.1vw;
+    font-size: 2.5vw;
     line-height: 2.5vw;
 }
 }
@@ -201,7 +201,10 @@ margin-left: 9vw;
 margin-right: 9vw;
 margin-bottom: 5vw;
 gap:4vw;
-
+@media(max-width:550px){
+    flex-direction: column;
+    align-items: center;
+}
 }
 .join-left{
     display: flex;
@@ -216,7 +219,7 @@ line-height: 3.5vw;
 letter-spacing: 0em;
 text-align: left;
 @media(max-width:550px){
-    font-size: 4.2vw;
+    font-size: 4.8vw;
     line-height: 2.5vw;
 }
 }
@@ -228,7 +231,7 @@ line-height: 2vw;
 letter-spacing: 0em;
 text-align: left;
 @media(max-width:550px){
-    font-size: 2.1vw;
+    font-size: 2.5vw;
     line-height: 2.5vw;
 }
 }
@@ -241,7 +244,7 @@ letter-spacing: 0em;
 text-align: left;
 margin: 0px;
 @media(max-width:550px){
-    font-size: 1.8vw;
+    font-size: 2.5vw;
     line-height: 2.5vw;
 }
 /* padding: 1px;     */
@@ -257,7 +260,8 @@ justify-content: center;
 align-items: center;
 gap:1vw;
 @media(max-width:550px){
-   width: 60%;
+   width: 30%;
+   height: 18vw;
 }
 }
 .logo{
@@ -270,6 +274,10 @@ background-repeat: no-repeat;
 background-size: contain;
 cursor: pointer;
 mix-blend-mode: color-burn;
+@media(max-width:550px){
+    width: 12vw;
+    height: 10vw;
+ }
 }
 
 .email{
@@ -279,7 +287,9 @@ font-weight: 500;
 line-height: 1vw;
 letter-spacing: 0.2em;
 text-align: center;
-
+@media(max-width:550px){
+   font-size: 2vw;
+ }
 }
 .email-address{
     font-family: Inter;
@@ -290,5 +300,7 @@ letter-spacing: 0em;
 text-align: center;
 cursor: pointer;
 color:rgba(0, 0, 0, 0.5);
-
+@media(max-width:550px){
+    font-size: 1.5vw;
+  }
 }

@@ -22,6 +22,7 @@ background-repeat: no-repeat;
 background-size: contain;
 }
 .wrapper-right{
+
     cursor: pointer;
     display: flex;
     flex-direction: row;
@@ -34,6 +35,16 @@ font-weight: 600;
 line-height: 22px;
 letter-spacing: 0em;
 text-align: left;
+background: transparent;
 color: rgba(0, 0, 0, 1);
-
+@media(max-width:550px){
+    font-size: 2vw;
+  }
+}
+.home{
+    text-decoration: none;
+}
+.contactUs{
+    text-decoration: none;
+    background: none;
 }
