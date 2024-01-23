@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ragam-project/static/css/main.84fcb368.css",
+    "main.js": "/ragam-project/static/js/main.8501aec1.js",
+    "static/js/787.d3c738ad.chunk.js": "/ragam-project/static/js/787.d3c738ad.chunk.js",
+    "static/media/techpic.jpg": "/ragam-project/static/media/techpic.8c4a2de5b84087aecf86.jpg",
+    "static/media/image 9.jpg": "/ragam-project/static/media/image 9.840ddc0e3be33810da76.jpg",
+    "static/media/image 8.png": "/ragam-project/static/media/image 8.eda45a97d64cdcb5eeea.png",
+    "static/media/Frame 35.jpg": "/ragam-project/static/media/Frame 35.c270947b42822f039e9a.jpg",
+    "static/media/Frame 33.jpg": "/ragam-project/static/media/Frame 33.700969d4adcda14a0a0b.jpg",
+    "static/media/Frame 34.jpg": "/ragam-project/static/media/Frame 34.69b16d1e835e7382818c.jpg",
+    "static/media/Frame 8.png": "/ragam-project/static/media/Frame 8.7a17b33a40bf45304aa0.png",
+    "static/media/Frame 6.png": "/ragam-project/static/media/Frame 6.18d621b58d57d25a7d68.png",
+    "static/media/Frame 5.png": "/ragam-project/static/media/Frame 5.8af1609b8188e6c6077b.png",
+    "index.html": "/ragam-project/index.html",
+    "main.84fcb368.css.map": "/ragam-project/static/css/main.84fcb368.css.map",
+    "main.8501aec1.js.map": "/ragam-project/static/js/main.8501aec1.js.map",
+    "787.d3c738ad.chunk.js.map": "/ragam-project/static/js/787.d3c738ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84fcb368.css",
+    "static/js/main.8501aec1.js"
+  ]
+}
